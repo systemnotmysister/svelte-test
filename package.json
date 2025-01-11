@@ -20,6 +20,9 @@
 		"vite": "^5.4.11"
 	},
 	"dependencies": {
-		"@sveltejs/adapter-cloudflare": "^5.0.0"
+		"@picocss/pico": "^2.0.6",
+		"@sveltejs/adapter-cloudflare": "^5.0.0",
+		"@urql/core": "^5.1.0",
+		"wrangler": "^3.57.1"
 	}
 }
