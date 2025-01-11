@@ -22,5 +22,8 @@
 		"@picocss/pico": "^2.0.6",
 		"@sveltejs/adapter-cloudflare": "^5.0.0",
 		"@urql/core": "^5.1.0"
-	}
+	},
+	"engines": {
+  "node": ">=18.19.0"
+}
 }
