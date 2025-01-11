@@ -13,7 +13,7 @@ const config = {
         exclude: ['<all>'],
       },
       platformProxy: {
-        configPath: 'wrangler.toml', // путь к конфигу wrangler.toml
+        // configPath: 'wrangler.toml', // путь к конфигу wrangler.toml
         environment: undefined, // можно указать окружение
         experimentalJsonConfig: false,
         persist: false,
